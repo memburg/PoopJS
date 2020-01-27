@@ -8,6 +8,8 @@
 A variety of commonly used functions:
 - ```console.log()``` is now ```puts([])```
 - ```console.clear()``` is now ```clc()```
+
+```Math``` methods are now functions
 - ```abs(x)``` returns the absolute value of a number
 - ```acos(x)``` returns the arccosine of a number
 - ```acosh(x)``` returns the hyperbolic arccosine of a number
