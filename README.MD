@@ -5,7 +5,7 @@
 💩.js (/puːp ˈdʒeɪ ɛs/) is an attempt to write less code in JavaScript, is a tiny library with a short version of most commonly used functions in JavaScript.
 
 ## Funtions
-A variaty of commonly used functions:
+A variety of commonly used functions:
 - ```console.log()``` now is ```puts([])```
 - ```console.clear()``` now is ```clc()```
 - ```abs(x)``` returns the absolute value of a number
@@ -22,8 +22,8 @@ A variaty of commonly used functions:
 - ```SQRT2 		= 1.414...```
 
 Other constants:
-- ```PHI		//1.618...```
-- ```C			//299792458 - Speed of Light (meters)```
+- ```PHI		= 1.618...```
+- ```C			= 299792458 // Speed of Light (meters)```
 
 ## Documentation
 - English
