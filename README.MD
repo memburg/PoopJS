@@ -12,18 +12,18 @@ A variaty of commonly used functions:
 - ```acos(x)``` returns the arccosine of a number
 
 ## Constants
-- ```E // 2.718281828459045```
-- ```LN2```
-- ```LN10```
-- ```LOG2E```
-- ```PI```
-- ```LOG10E```
-- ```SQRT1_2```
-- ```SQRT2```
+- ```E 			//2.718...```
+- ```LN2 		//0.693...```
+- ```LN10 		//2.302...```
+- ```LOG2E 		//1.442...```
+- ```PI 		//3.141...```
+- ```LOG10E 	//0.434...```
+- ```SQRT1_2 	//0.707...```
+- ```SQRT2 		//1.414...```
 
 Other constants:
-- ```Golden ratio = PHI```
-- ```Light speed in meters = C```
+- ```PHI		//1.618...```
+- ```C			//299792458 - Speed of Light (meters)```
 
 ## Documentation
 - English
