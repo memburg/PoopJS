@@ -4,7 +4,7 @@
 ## What is 💩.js?
 💩.js (/puːp ˈdʒeɪ ɛs/) is an attempt to write less code in JavaScript, is a tiny library with a short version of most commonly used functions in JavaScript.
 
-## Funtions
+## Functions
 A variety of commonly used functions:
 - ```console.log()``` is now ```puts([])```
 - ```console.clear()``` is now ```clc()```
