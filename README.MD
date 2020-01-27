@@ -6,10 +6,16 @@
 
 ## Funtions
 A variety of commonly used functions:
-- ```console.log()``` now is ```puts([])```
-- ```console.clear()``` now is ```clc()```
+- ```console.log()``` is now ```puts([])```
+- ```console.clear()``` is now ```clc()```
 - ```abs(x)``` returns the absolute value of a number
 - ```acos(x)``` returns the arccosine of a number
+- ```acosh(x)``` returns the hyperbolic arccosine of a number
+- ```asin(x)``` returns the arcsine of a number
+- ```asinh(x)``` returns the hyperbolic arcsine of a number
+- ```atan(x)``` returns the arctangent of a number
+- ```atanh(x)``` returns the hyperbolic arctangent of a number
+- ```atan2(x, y)``` returns the arctangent of the quotient of its arguments
 
 ## Constants
 - ```E 			= 2.718...```
@@ -23,8 +29,11 @@ A variety of commonly used functions:
 
 Other constants:
 - ```PHI		= 1.618...```
-- ```C			= 299792458 // Speed of Light (meters)```
+- ```C			= 299792458 // speed of Light (meters)```
 
 ## Documentation
 - English
 - Spanish
+
+## Contributions
+Feel free to contribute to the 💩.js project
