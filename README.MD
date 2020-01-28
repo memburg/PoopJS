@@ -2,7 +2,7 @@
 *Not another s\*\*\*\*y JavaScript library...*
 
 ## What is 💩.js?
-💩.js (/puːp ˈdʒeɪ ɛs/) is an attempt to write less code in JavaScript, is a tiny library with a short version of most commonly used functions in JavaScript.
+💩.js (/puːp ˈdʒeɪ ɛs/) is an attempt to write less code in JavaScript, it is a tiny library with a short version of most commonly used functions in JavaScript.
 
 ## Functions
 A variety of commonly used functions:
