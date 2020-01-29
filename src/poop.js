@@ -28,7 +28,7 @@ const asin = (x) => Math.asin(x);
 const asinh = (x) => Math.asinh(x);
 const atan = (x) => Math.atan(x);
 const atanh = (x) => Math.atanh(x);
-const atan2 = (y, x) => Math.atan2(x, y);
+const atan2 = (y, x) => Math.atan2(y, x);
 const cbrt = (x) => Math.cbrt(x);
 const ceil = (x) => Math.ceil(x);
 const clz32 = (x) => Math.clz32(x);
