@@ -29,7 +29,7 @@ A variety of commonly used functions:
 - ```fround(x)``` returns the nearest single precision float representation of a number
 - ```imul(x, y)``` returns the result of a 32-bit integer multiplication
 - ```log(x)``` returns the natural logarithm of a number
-- ```log1p(x)``` returns  the natural logarithm of 1 + x for a number
+- ```log1p(x)``` returns  the natural logarithm of ```1 + x``` for a number
 - ```log10(x)``` returns the base 10 logarithm of a number
 - ```log2(x)``` returns the base 2 logarithm of a number
 - ```pow(x, y)``` returns base to the exponent power, that is, ```x^y```
