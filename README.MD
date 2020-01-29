@@ -59,7 +59,9 @@ Other constants:
 
 ## Documentation
 - English
+- Portuguese (under construction)
 - Spanish (under construction)
+- Italian (under construction)
 
 ## Contributions
 Feel free to contribute to the 💩.js project
