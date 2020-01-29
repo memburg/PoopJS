@@ -3,8 +3,10 @@
  * (c) 2020 Rubén Burgos
  * Released under the MIT License.
  */
-/*** FUNCTIONS ***/
-const puts = function (parameters) {
+
+/************ FUNCTIONS ************/
+/****** fuf (frequently used functions) ******/
+const puts = (parameters) => {
     try {
         parameters.forEach(element => {
             console.log(element);
@@ -14,6 +16,10 @@ const puts = function (parameters) {
     }
 }
 
+const getById = (id) => document.getElementById(id);
+const getByClassName = (className) => document.getElementsByClassName(className);
+
+/****** Math methods ******/
 const clc = () => console.clear();
 const abs = (x) => Math.abs(x);
 const acos = (x) => Math.acos(x);
@@ -48,7 +54,7 @@ const tan = (x) => Math.tan(x);
 const tanh = (x) => Math.tanh(x);
 const trunc = (x) => Math.trunc(x);
 
-/*** CONSTANTS ***/
+/************ CONSTANTS ************/
 const E = Math.E;
 const LN2 = Math.LN2;
 const LN10 = Math.LN10;
