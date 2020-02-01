@@ -60,7 +60,7 @@ Otras constantes:
 - ```C			= 299792458 // velocidad de la luz (metros)```
 
 ## Documentación
-- [Inglés](https://github.com/memburg/Poop)
+- [Inglés](https://github.com/memburg/Poop#js)
 - [Español](https://github.com/memburg/Poop/tree/master/docs/es#js)
 - [Portugués](https://github.com/memburg/Poop/tree/master/docs/pt#js) (en construcción)
 - [Italiano](https://github.com/memburg/Poop/tree/master/docs/it#js) (en construcción)
