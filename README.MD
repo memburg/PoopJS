@@ -6,8 +6,10 @@
 
 ## Functions
 A variety of commonly used functions:
-- ```console.log()``` is now ```puts([])```
+- ```console.log()``` is now ```puts()```
 - ```console.clear()``` is now ```clc()```
+- ```document.getElementById()``` is now ```getById()```
+- ```document.getElementByClassName()``` is now ```getByClassName()```
 
 ```Math``` methods are now functions:
 - ```abs(x)``` returns the absolute value of a number
@@ -58,10 +60,10 @@ Other constants:
 - ```C			= 299792458 // speed of light (meters)```
 
 ## Documentation
-- English
-- Portuguese (under construction)
-- Spanish (under construction)
-- Italian (under construction)
+- [English](https://github.com/memburg/Poop#js)
+- [Spanish](https://github.com/memburg/Poop/tree/master/docs/es)
+- [Portuguese](https://github.com/memburg/Poop/tree/master/docs/pt) (under construction)
+- [Italian](https://github.com/memburg/Poop/tree/master/docs/it) (under construction)
 
 ## Contributions
 Feel free to contribute to the 💩.js project
