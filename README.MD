@@ -61,9 +61,9 @@ Other constants:
 
 ## Documentation
 - [English](https://github.com/memburg/Poop#js)
-- [Spanish](https://github.com/memburg/Poop/tree/master/docs/es)
-- [Portuguese](https://github.com/memburg/Poop/tree/master/docs/pt) (under construction)
-- [Italian](https://github.com/memburg/Poop/tree/master/docs/it) (under construction)
+- [Spanish](https://github.com/memburg/Poop/tree/master/docs/es#js)
+- [Portuguese](https://github.com/memburg/Poop/tree/master/docs/pt#js) (under construction)
+- [Italian](https://github.com/memburg/Poop/tree/master/docs/it#js) (under construction)
 
 ## Contributions
 Feel free to contribute to the 💩.js project
